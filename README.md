@@ -1,4 +1,4 @@
-# Project1_r1
+# Assignment2
  Developing Soft and Parallel Programming Skills Using Project-Based Learning.
  Members name
 1. An Tran
